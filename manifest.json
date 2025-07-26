@@ -1,0 +1,11 @@
+{
+  "domain": "came_watchdog",
+  "name": "CAME Watchdog",
+  "documentation": "https://github.com/odoricof/came_watchdog",
+  "version": "1.0.0",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@odoricof"],
+  "iot_class": "local_push"
+}
+
